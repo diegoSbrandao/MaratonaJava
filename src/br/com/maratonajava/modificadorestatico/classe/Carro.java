@@ -3,7 +3,7 @@ package br.com.maratonajava.modificadorestatico.classe;
 public class Carro {
     private String nome;
     private double velocidadeMaxima;
-    public static double velocidadeLimite = 240;
+    private static double velocidadeLimite = 240;
 
     public Carro(){
     }
@@ -11,6 +11,14 @@ public class Carro {
     public Carro(String nome, double velocidadeMaxima){
         this.nome = nome;
         this.velocidadeMaxima = velocidadeMaxima;
+    }
+
+    public double getVelocidadeLimite(){
+        return velocidadeLimite;
+    }
+
+    public static void setVelocidadeLimite(double velocidadeLimite){
+        Carro.velocidadeLimite = velocidadeLimite;
     }
 
     public void imprimir(){
@@ -21,6 +29,7 @@ public class Carro {
     }
 
     public String getNome() {
+
         return nome;
     }
 
