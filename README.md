@@ -11,6 +11,8 @@ Comentário apenas para documentar meu processo.
 4 dia de aula. - 05/07/21 = Aula 31 até Aula 35.</br>
 5 dia de aula. - 06/07/21 = Aula 36 até Aula 42.</br>
 6 dia de aula. - 07/07/21 = Aula 43 até Aula 45.</br>
+7 dia de aula. - 08/07/21 = Aula 46 até Aula 48.</br>
+
 
 
 
