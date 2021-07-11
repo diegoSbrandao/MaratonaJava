@@ -22,9 +22,14 @@ public class HerancaTeste {
         func.setEndereco(end);
 
 
+
+
         p.print();
         System.out.println("--------------------");
         func.print();
+        System.out.println("--------------------");
+        System.out.println("--------------------");
+
 
     }
 }

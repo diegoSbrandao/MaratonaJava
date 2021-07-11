@@ -1,7 +1,7 @@
 package br.com.maratonajava.heranca.classes;
 
 public class Pessoa {
-    private String nome;
+    protected String nome;
     private String cpf;
     private Endereco endereco;
 

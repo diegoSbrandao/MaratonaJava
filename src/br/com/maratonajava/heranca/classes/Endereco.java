@@ -4,6 +4,11 @@ public class Endereco {
     private String rua;
     private String bairro;
 
+    public void print(){
+        System.out.println("Rua: " + this.rua);
+        System.out.println("Bairro: " + this.bairro);
+    }
+
     public String getRua() {
         return rua;
     }
