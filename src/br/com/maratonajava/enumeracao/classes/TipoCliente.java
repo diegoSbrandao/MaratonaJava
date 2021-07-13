@@ -7,7 +7,7 @@ public enum TipoCliente {
             return "B";
         }
     };
-
+//Aula59
     private int tipo;
     private String nome;
 
