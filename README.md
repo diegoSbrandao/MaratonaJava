@@ -18,6 +18,7 @@ Comentário apenas para documentar meu processo.
 11 dia de aula. - 12/07/21 = Aula 56 até Aula 59.</br>
 12 dia de aula. - 13/07/21 = Aula 60 até Aula 63.</br>
 13 dia de aula. - 14/07/21 = Aula 64 até Aula 66.</br>
+14 dia de aula. - 15/07/21 = Aula 67 até Aula 71.</br>
 
 
 
