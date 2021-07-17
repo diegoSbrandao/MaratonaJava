@@ -1,4 +1,4 @@
-package br.com.maratonajava.exception.checkedexception;
+package br.com.maratonajava.exception.checkedexception.testes;
 
 import java.io.File;
 import java.io.IOException;
