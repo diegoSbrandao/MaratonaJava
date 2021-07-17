@@ -11,5 +11,6 @@ public class RuntimeExceptionTeste {
             throw new IllegalArgumentException("Passe um valor diferente de 0 (zero) para num2");
         }
         return num1/num2;
+
     }
 }
