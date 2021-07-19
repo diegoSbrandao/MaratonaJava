@@ -21,6 +21,7 @@ Comentário apenas para documentar meu processo.
 14 dia de aula. - 15/07/21 = Aula 67 até Aula 71.</br>
 15 dia de aula. - 16/07/21 = Aula 72 até Aula 75.</br>
 16 dia de aula. - 17/07/21 = Aula 76 até Aula 77.</br>
+17 dia de aula. - 18/07/21 = Aula 78 até Aula 79.</br>
 
 
 
