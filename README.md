@@ -23,6 +23,9 @@ Comentário apenas para documentar meu processo.
 16 dia de aula. - 17/07/21 = Aula 76 até Aula 77.</br>
 17 dia de aula. - 18/07/21 = Aula 78 até Aula 79.</br>
 18 dia de aula. - 19/07/21 = Aula 80 até Aula 80.</br>
+19 dia de aula. - 20/07/21 = Aula 81 até Aula 81.</br>
+
+
 
 
 
