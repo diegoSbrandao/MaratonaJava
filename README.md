@@ -30,6 +30,8 @@ Comentário apenas para documentar meu processo.
 23 dia de aula. - 24/07/21 = Aula 85 até Aula 85.</br>
 24 dia de aula. - 25/07/21 = Aula 86 até Aula 86.</br>
 25 dia de aula. - 26/07/21 = Aula 87 até Aula 87.</br>
+26 dia de aula. - 27/07/21 = Aula 88 até Aula 88.</br>
+
 
 
 
