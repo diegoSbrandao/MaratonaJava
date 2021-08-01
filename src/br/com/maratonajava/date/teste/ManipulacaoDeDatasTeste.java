@@ -17,7 +17,7 @@ public class ManipulacaoDeDatasTeste {
         System.out.println("Minutos atual: " +c.get(Calendar.MINUTE));
 
         c.add(Calendar.HOUR,15); //Adicionando horas
-        c.roll(Calendar.HOUR,15); //Adicionando horas mas no mesmo dia,mes,ano
+        c.roll(Calendar.HOUR,15); //Adicionando horas ,mas, no mesmo dia,mes,ano
 
         Date date2 = c.getTime();
         System.out.println(date2);
