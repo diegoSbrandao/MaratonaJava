@@ -35,7 +35,8 @@ Comentário apenas para documentar meu processo.
 28 dia de aula. - 29/07/21 = Aula 91 até Aula 92.</br>
 29 dia de aula. - 30/07/21 = Aula 93 até Aula 93.</br>
 30 dia de aula. - 31/07/21 = Aula 94 até Aula 94.</br>
-
+31 dia de aula. - 01/08/21 = Aula 95 até Aula 95.</br>
+32 dia de aula. - 02/08/21 = Aula 96 até Aula 100.</br>
 
 
 
