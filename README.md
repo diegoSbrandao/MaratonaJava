@@ -42,6 +42,7 @@ Comentário apenas para documentar meu processo.
 35 dia de aula. - 05/08/21 = Aula 109 até Aula 114.</br>
 36 dia de aula. - 06/08/21 = Aula 115 até Aula 115.</br>
 37 dia de aula. - 07/08/21 = Aula 116 até Aula 116.</br>
+38 dia de aula. - 08/08/21 = Aula 117 até Aula 117.</br>
 
 
 
