@@ -1,4 +1,6 @@
-package br.com.maratonajava.colecoes.classe;
+package br.com.maratonajava.colecoes.testes;
+
+import br.com.maratonajava.colecoes.classe.Celular;
 
 public class EqualsTeste {
     public static void main(String[] args) {

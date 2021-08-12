@@ -1,4 +1,4 @@
-package br.com.maratonajava.colecoes.classe;
+package br.com.maratonajava.colecoes.testes;
 
 import java.util.ArrayList;
 import java.util.List;
