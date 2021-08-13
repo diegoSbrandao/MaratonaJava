@@ -47,6 +47,8 @@ Comentário apenas para documentar meu processo.
 40 dia de aula. - 10/08/21 = Aula 119 até Aula 119.</br>
 41 dia de aula. - 11/08/21 = Aula 120 até Aula 120.</br>
 42 dia de aula. - 12/08/21 = Aula 121 até Aula 123.</br>
+43 dia de aula. - 13/08/21 = Aula 124 até Aula 125.</br>
+
 
 
 
