@@ -25,6 +25,16 @@ public class Produto implements Comparable<Produto> {
     }
 
     @Override
+    public String toString() {
+        return "Produto{" +
+                "serialNumber='" + serialNumber + '\'' +
+                ", nome='" + nome + '\'' +
+                ", preco=" + preco +
+                ", quantidade=" + quantidade +
+                '}';
+    }
+
+    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
@@ -78,7 +88,7 @@ public class Produto implements Comparable<Produto> {
        //Comparação por preco, lembre-se use sempre classe ex: Double,Integer, não use tiposPrimitivos
         // return this.preco.compareTo(outroObjeto.getPreco());
     //abaixo comparando String
-        return this.getNome().compareTo(outroObjeto.getNome());
+        return this.getPreco().compareTo(outroObjeto.getPreco());
     }
 
 }
