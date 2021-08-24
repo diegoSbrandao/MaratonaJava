@@ -57,6 +57,7 @@ Comentário apenas para documentar meu processo.
 50 dia de aula. - 20/08/21 = Aula 140 até Aula 140.</br>
 51 dia de aula. - 21/08/21 = Aula 141 até Aula 141.</br>
 52 dia de aula. - 22/08/21 = Aula 142 até Aula 142.</br>
+53 dia de aula. - 23/08/21 = Aula 143 até Aula 143.</br>
 
 
 
