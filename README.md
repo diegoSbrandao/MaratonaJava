@@ -60,6 +60,7 @@ Comentário apenas para documentar meu processo.
 53 dia de aula. - 23/08/21 = Aula 143 até Aula 143.</br>
 54 dia de aula. - 24/08/21 = Aula 144 até Aula 144.</br>
 55 dia de aula. - 25/08/21 = Aula 145 até Aula 152.</br>
+56 dia de aula. - 26/08/21 = Aula 153 até Aula 155.</br>
 
 
 
