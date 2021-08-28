@@ -6,7 +6,7 @@ Criador do curso todos direitos reservados à Willian Suane.
 Comentário apenas para documentar meu processo.
 
 
-  Início Dia  | Data início |     Descrição     |
+  Início      |   Percurso  |     Descrição     |
 :-----------: |:-----------:|:-----------------:|
 1 dia de aula.|  02/07/21 | Aula 05 até Aula 17</br> 
 2 dia de aula.|  03/07/21 | Aula 18 até Aula 22</br>
