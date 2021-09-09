@@ -76,6 +76,7 @@ Comentário apenas para documentar meu processo.
 66 dia de aula.| 06/09/21 | Aula 177 até Aula 180
 67 dia de aula.| 07/09/21 | Aula 181 até Aula 181
 68 dia de aula.| 08/09/21 | Aula 182 até Aula 189
+69 dia de aula.| 09/09/21 | Aula 190 até Aula 195
 
 
 
