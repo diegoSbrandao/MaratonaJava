@@ -82,7 +82,7 @@ Comentário apenas para documentar meu processo.
 72 dia de aula.| 12/09/21 | Aula 200 até Aula 200
 73 dia de aula.| 13/09/21 | Aula 201 até Aula 201
 74 dia de aula.| 14/09/21 | Aula 202 até Aula 203
-75 dia de aula.| 14/09/21 | Aula 204 até Aula 209
+75 dia de aula.| 15/09/21 | Aula 204 até Aula 209
 
 
 (ง'̀-'́)ง - You can do it!
