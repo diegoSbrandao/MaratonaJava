@@ -1,7 +1,7 @@
 # MaratonaJava
 Repositório criado para arquivar progresso do curso maratona java, 
 Curso Maratona Java oferecido pelo DevDojo. <a href="https://youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL"> Acessa aqui!<a/></br>
-Criador do curso todos direitos reservados à Willian Suane.
+Criador do curso todos direitos reservados à William Suane.
   </br>
 Comentário apenas para documentar meu processo.
 
